@@ -31,8 +31,7 @@ A smart monitoring system that tracks fuel and battery levels in real-time acros
 - Assisted in sensor interfacing
 - Contributed to C programming and testing
 
-## 📸 Output
-(Add images)
+
 
 ## 🔮 Future Improvements
 - IoT integration
